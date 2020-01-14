@@ -2,8 +2,8 @@
 
 int main(void);
  int choice;
- int negocio;
- int tipo;
+ int codprodut;
+ int artigo;
  int localizaçao;
  int area;
  int moradia= 550;

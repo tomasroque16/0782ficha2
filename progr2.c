@@ -2,13 +2,17 @@
 
 int main(void);
  int choice;
- int x;
- int y;
- int soma;
+ int peso;
+ int abaixodopeso;
+ int saudavel;
+ int pesodamasiado;
+ int obesidade;
+ int obesidade2;
+ int obesidade3;
 
-  printf("Insere o primeiro numero a:\n->");
-   scanf("%d", &x)
-  printf("Inserir o segundo numero a:\n->");
+  printf("Insere  o seu peso  a:\n->");
+   scanf("%d", &peso)
+  printf("Inserir o  a:\n->");
    scanf("%d", &y)
  printf("soma de ambos a:\n->");
   scanf("%d" ,&soma)
@@ -20,6 +24,6 @@ else if (const<x && const>y){
     printf("y maior que x:\n->");
 
 else if (const<x && const<y){
-    printf("x igual a y:\n->");
+    printf("ambos valores de X e Y sao iguais :\n->");
 
 return 0;

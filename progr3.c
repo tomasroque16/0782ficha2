@@ -27,7 +27,7 @@ switch (choice)
         scanf("%d" ,&euro);
      printf("insere :\n\t->");
         scanf("%s" ,&dollar);
-    printf("Insere :\n\t->");
+     printf("Insere :\n\t->");
         scanf("%d" ,&cad);
 
 return 0;
